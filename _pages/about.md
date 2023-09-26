@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+_This is an about page._
 
 Feel free to tell the world about what you love! 😍
+
+It's not just a site; it's a symphony of synchronized thoughts!
